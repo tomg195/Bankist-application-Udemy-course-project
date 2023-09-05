@@ -1,6 +1,6 @@
 # Pretend-banking-application-Bankist-Udemy-course-project
 
-Pretend banking application called 'Bankist', created with help from the Udemy course: https://www.udemy.com/course/the-complete-javascript-course/
+Pretend banking application called 'Bankist', which shows the incoming/outgoing payments of two users' bank accounts. Created with help from the Udemy course: https://www.udemy.com/course/the-complete-javascript-course/
 
 User can login with the following user and PIN information:
 
