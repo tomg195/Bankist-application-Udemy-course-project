@@ -1,4 +1,4 @@
-# Pretend-banking-application-Bankist-Udemy-course-project
+# Bankist-application-Udemy-course-project
 
 Pretend banking application called 'Bankist', which shows the incoming/outgoing payments of two users' bank accounts. Created with help from the Udemy course: https://www.udemy.com/course/the-complete-javascript-course/
 
