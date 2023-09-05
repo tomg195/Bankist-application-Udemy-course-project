@@ -6,3 +6,5 @@ User can login with the following user and PIN information:
 
 Account 1 - User: js PIN: 1111
 Account 2 - User: jd PIN: 2222
+
+Available at: https://bankist-application-tomg195.netlify.app/
